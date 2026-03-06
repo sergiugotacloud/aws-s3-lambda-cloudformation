@@ -11,18 +11,19 @@ When a file is uploaded to the S3 bucket, a Lambda function is automatically tri
 
 ## Project Structure
 
+```
 aws-s3-lambda-cloudformation
 │
 ├── template for CloudFormation.yaml
 ├── README.md
 │
-├── screenshots
-│   ├── cf-stack-overview.png
-│   ├── cf-resources.png
-│   ├── s3-upload.png
-│   ├── cloudwatch-logs.png
-│   ├── architecture-flow.png
-│   └── visual-designer.png
+├── cf-stack-overview.png
+├── cf-resources.png
+├── s3-upload.png
+├── cloudwatch-logs.png
+├── architecture-flow.png
+└── visual-designer.png
+```
 
 ## Services Used
 
