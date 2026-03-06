@@ -47,19 +47,19 @@ User Upload → S3 Bucket → Lambda → CloudWatch Logs
 
 ### 1. CloudFormation Stack Overview
 
-![CloudFormation Stack]("1. CloudFormation Stack Overview.png")
+![CloudFormation Stack](1. CloudFormation Stack Overview.png)
 
 ### 2. CloudFormation Resources
 
-![CloudFormation Resources]("2. CloudFormation Resources.png")
+![CloudFormation Resources](2. CloudFormation Resources.png)
 
 ### 3. Uploading File to S3
 
-![S3 Upload]("3. S3 Upload Object.png")
+![S3 Upload](3. S3 Upload Object.png)
 
 ### 4. CloudWatch Logs (Lambda Execution)
 
-![CloudWatch Logs]("4. CloudWatch Logs (Most Important).png")
+![CloudWatch Logs](4. CloudWatch Logs (Most Important).png)
 
 ### 5. Architecture Flow
 
@@ -67,4 +67,4 @@ User Upload → S3 Bucket → Lambda → CloudWatch Logs
 
 ### 6. CloudFormation Visual Designer
 
-![Visual]("Visual CF.png")
+![Visual](Visual CF.png)
