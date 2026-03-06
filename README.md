@@ -8,6 +8,22 @@ S3 → Lambda → CloudWatch Logs
 
 When a file is uploaded to the S3 bucket, a Lambda function is automatically triggered and logs event metadata to CloudWatch.
 
+
+## Project Structure
+
+aws-s3-lambda-cloudformation
+│
+├── template for CloudFormation.yaml
+├── README.md
+│
+├── screenshots
+│   ├── cf-stack-overview.png
+│   ├── cf-resources.png
+│   ├── s3-upload.png
+│   ├── cloudwatch-logs.png
+│   ├── architecture-flow.png
+│   └── visual-designer.png
+
 ## Services Used
 
 - AWS CloudFormation
