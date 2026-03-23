@@ -156,4 +156,7 @@ aws cloudformation deploy \
 
 ## Author
 
-Sergiu Gota AWS Certified Solutions Architect – Associate · AWS Cloud Practitioner github.com/sergiugotacloud · linkedin.com/in/sergiu-gota-cloud
+Sergiu Gota 
+AWS Certified Solutions Architect – Associate & AWS Cloud Practitioner 
+· github.com/sergiugotacloud 
+· linkedin.com/in/sergiu-gota-cloud
