@@ -156,10 +156,6 @@ aws cloudformation deploy \
 
 ## Author
 
-Sergiu Gota
-AWS Certified Solutions Architect – Associate · AWS Cloud Practitioner
-Show Image
-Show Image
-
-Built as part of a cloud portfolio to demonstrate real-world AWS architecture and IaC practices.
-Feel free to fork, adapt, or reach out with questions.
+**Sergiu Gota**  
+AWS Certified Solutions Architect – Associate · AWS Cloud Practitioner  
+[github.com/sergiugotacloud](https://github.com/sergiugotacloud) · [linkedin.com/in/sergiu-gota-cloud](https://linkedin.com/in/sergiu-gota-cloud)
